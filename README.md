@@ -1,2 +1,2 @@
-# Maquetaci-n-1
+# Maquetacion-1
 Bootcamp Maquetación 1
